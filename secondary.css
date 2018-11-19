@@ -1,0 +1,13 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 500px;
+}
+body{
+background-color: #ffffff;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
